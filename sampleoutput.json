@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Nicki Jhabvala",
+            "title": "Taylor Heinicke, Commanders shock unbeaten Eagles - The Washington Post",
+            "description": "Washington shocked the 8-0 Eagles and may have settled a pending quarterback decision.",
+            "url": "https://www.washingtonpost.com/sports/2022/11/14/commanders-upset-eagles-undefeated/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/URBIXLHYBCZRLGBOZSKYQP5SPE.JPG&w=1440",
+            "publishedAt": "2022-11-15T07:32:00Z",
+            "content": "Comment on this story\r\nPHILADELPHIA Taylor Heinicke said he wasnt paying attention. He said he didnt give much thought to Monday night potentially being his last start, should Carson Wentz return to … [+10137 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Roberta Flack Has A.L.S. and Can No Longer Sing, Her Publicist Says - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTQvYXJ0cy9tdXNpYy9yb2JlcnRhLWZsYWNrLWFscy5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-15T04:55:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "After meeting Xi, Biden says there need be no new Cold War - Al Jazeera English",
+            "description": "US, Chinese leaders seek to stabilise strained relations during face-to-face talks in Bali, Indonesia.",
+            "url": "https://www.aljazeera.com/news/2022/11/14/biden-xi-discuss-taiwan-competition-human-rights-at-summit",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-14T101429Z_653976675_RC2MLX9CNKVK_RTRMADP_3_G20-SUMMIT-BIDEN-XI.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-11-15T04:29:42Z",
+            "content": "US President Joe Biden and Chinese President Xi Jinping have promised to cooperate on global challenges and agreed on the need to improve strained relations after sitting down for their first in-pers… [+6552 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters",
+            "title": "Japan's economy shrinks for the first time in a year - CNN",
+            "description": "Japan's economy unexpectedly shrank for the first time in a year in the third quarter, stoking further uncertainty about the outlook as global recession risks, a weak yen and higher import costs took a toll on household consumption and businesses.",
+            "url": "https://www.cnn.com/2022/11/14/economy/japan-economy-gdp-shrinks/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114231248-japan-economy-gdp.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-15T04:22:00Z",
+            "content": "Japans economy unexpectedly shrank for the first time in a year in the third quarter, stoking further uncertainty about the outlook as global recession risks, a weak yen and higher import costs took … [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Veronica Stracqualursi",
+            "title": "Pence: 'I think we'll have better choices in the future' than Trump - CNN",
+            "description": "Former Vice President Mike Pence said in a newly released interview clip that he and his family are giving \"prayerful consideration\" to whether he should run for president in 2024 and that the US will have \"better choices in the future\" than former President …",
+            "url": "https://www.cnn.com/2022/11/14/politics/pence-trump-2024/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114194042-mike-pence-file-072622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-15T04:02:00Z",
+            "content": "Former Vice President Mike Pence said in a newly released interview clip that he and his family are giving prayerful consideration to whether he should run for president in 2024 and that the US will … [+2951 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeff Stein",
+            "title": "Biden aides consider extending student loan freeze after court defeats - The Washington Post",
+            "description": "The discussions are preliminary but come as White House officials face legal challenges to the loan forgiveness program.",
+            "url": "https://www.washingtonpost.com/us-policy/2022/11/14/biden-student-loan-extend-moratorium/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGT5PXDCTQI63IJR5EAOJJRTNM.jpg&w=1440",
+            "publishedAt": "2022-11-15T03:47:00Z",
+            "content": "Comment on this story\r\nWhite House officials are weighing extending a pause on student debt payments after a federal appeals court blocked President Bidens plan to cancel up to $20,000 in debt per bo… [+5052 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, Charles Ventura, Jane Onyanga-Omara and Jorge L. Ortiz, USA TODAY",
+            "title": "UVA shooting: 3 football players killed, suspect arrested, police say - USA TODAY",
+            "description": "A student suspect was taken into custody about 12 hours after a rampage left three people dead at the University of Virginia, police said.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/11/14/university-virginia-shooting-suspects-victims/10695450002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/14/USAT/44dc8e7b-c371-4710-ade4-bb8745a32002-AP_University_of_Virginia-Shooting.jpg?auto=webp&crop=4511,2538,x0,y161&format=pjpg&width=1200",
+            "publishedAt": "2022-11-15T03:00:00Z",
+            "content": "CHARLOTTESVILLE, Va. – The University of Virginia lifted a campuswide lockdown Monday hours after three students were killed and two injured in a shooting rampage on a charter bus that had returned f… [+9661 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Police identify 4 University of Idaho students found dead inside a home near campus; homicide investigation underway - CBS News",
+            "description": "\"An event of this magnitude can understandably have significant impacts on those left behind,\" the university's president wrote.",
+            "url": "https://www.cbsnews.com/news/university-of-idaho-4-students-dead-homicide-invesitgation/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/14/de0f890d-82e2-409b-b175-ce730f54ee34/thumbnail/1200x630/2f456be6e78c5cf28c696fb9957147c6/315584864-502981341876512-5717592716476898882-n.jpg",
+            "publishedAt": "2022-11-15T02:53:00Z",
+            "content": "Police: 4 University of Idaho students found dead by campus \r\nPolice: 4 University of Idaho students found dead by campus00:22\r\nPolice have identified the four University of Idaho students who were f… [+5701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Brett Tingley",
+            "title": "NASA clears Artemis 1 moon rocket for Nov. 16 launch despite storm damage - Space.com",
+            "description": "\"There's no change in our plan to attempt to launch on the 16th.\"",
+            "url": "https://www.space.com/nasa-clears-artemis-1-moon-rocket-for-launch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gGSM3VYiQBVqbboJoQN9JG-1200-80.jpg",
+            "publishedAt": "2022-11-15T02:14:15Z",
+            "content": "CAPE CANAVERAL, Fla. - NASA's Artemis 1 moon mission will once again attempt to launch after all.\r\nMission managers met on Monday (Nov. 14) to discuss the flight readiness of the Artemis 1's Space La… [+3854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Christopher Dring",
+            "title": "God of War Ragnarok launch was bigger than Call of Duty, Elden Ring and Pokémon | UK Boxed Charts - GamesIndustry.biz",
+            "description": "God of War Ragnarok beats Pokemon Legends: Arceus, Call of Duty: Modern Warfare 2 and Elden Ring",
+            "url": "https://www.gamesindustry.biz/god-of-war-ragnarok-launch-was-bigger-than-call-of-duty-elden-ring-and-pokemon-uk-boxed-charts",
+            "urlToImage": "https://assets.reedpopcdn.com/GOW_YMtaSa2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GOW_YMtaSa2.jpg",
+            "publishedAt": "2022-11-15T01:56:33Z",
+            "content": "God of War Ragnarok is the UK's second biggest boxed game launch of the year, behind FIFA 23. \r\nIt means the PlayStation game sold more boxed copies in its first week than Elden Ring, Call of Duty: M… [+3061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Jason Nelson",
+            "title": "Sam Bankman-Fried Says He's 'Improvising' His Cryptic One-Letter Tweets - Decrypt",
+            "description": "A bizarre series of tweets by the embattled former FTX CEO has Crypto Twitter scratching its collective head.",
+            "url": "https://decrypt.co/114635/sam-bankman-fried-explains-his-cryptic-one-letter-tweets",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/scrabble-shutterstock_1573338085-16x9-1-gID_5.jpg",
+            "publishedAt": "2022-11-15T01:56:02Z",
+            "content": "In a series of bizarre tweets, the embattled former CEO of FTX, Sam Bankman-Fried, posted several single-letter tweetsmany hours apartthat together read, \"What HAPPEN.\" So far.\r\nThe strange tweets be… [+1475 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Jeffri Chadiha",
+            "title": "The First Read, Week 11: NFC contenders, pretenders; plus, Josh Allen's turnover troubles - NFL.com",
+            "description": "Have Justin Jefferson's Vikings firmly established themselves as conference heavyweights? Where do Dak Prescott's Cowboys stand? In this week's First Read, Jeffri Chadiha sorts NFC contenders and pretenders. Plus, Josh Allen's turnover troubles and more.",
+            "url": "https://www.nfl.com/news/the-first-read-week-11-nfc-contenders-pretenders-plus-josh-allen-s-turnover-trou",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/lcgqzqleg3cmfhxllrue",
+            "publishedAt": "2022-11-15T01:56:00Z",
+            "content": "The passage of the midseason point in the 2022 NFL season provides another opportunity to see how the league is shaping up. We talked about pretenders and contenders in the AFC in this space a few we… [+20435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "California's First Lady testifies at Weinstein trial - KTLA 5",
+            "description": "Jennifer Siebel Newsom, a documentary filmmaker and the wife of California Gov. Gavin Newsom, burst into tears a few minutes into her testimony Monday when a...",
+            "url": "https://www.youtube.com/watch?v=mVel2UFZUck",
+            "urlToImage": "https://i.ytimg.com/vi/mVel2UFZUck/maxresdefault.jpg",
+            "publishedAt": "2022-11-15T01:54:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Verifythis.com"
+            },
+            "author": "Casey Decker",
+            "title": "Iran didn't sentence 15K protesters to death | verifythis.com - VERIFYThis.com",
+            "description": "So far only one protester has received a death sentence. However, human rights groups warn that future sentences could be handed down without warning or due process.",
+            "url": "https://www.verifythis.com/article/news/verify/world-verify/iran-15000-protesters-not-sentenced-to-death-fact-check/536-9b21be3b-62aa-4793-91c7-799872cbdef7",
+            "urlToImage": "https://media.tegna-media.com/assets/VERIFY/images/aa7e9988-83c4-448e-a55b-a71ff314908f/aa7e9988-83c4-448e-a55b-a71ff314908f_1140x641.jpg",
+            "publishedAt": "2022-11-15T01:40:00Z",
+            "content": "Protests across Iran, led largely by women, have been demanding improvements to human rights and civil liberties in the country for weeks. The demonstrations began after a 22-year-old woman, Mahsa Am… [+5539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "Russia-Ukraine war at a glance: what we know on day 265 of the invasion - The Guardian",
+            "description": "Zelenskiy says Ukraine’s recapture of Kherson marks ‘the beginning of the end of the war’; UN calls for Russia to make reparations to Ukraine",
+            "url": "https://www.theguardian.com/world/2022/nov/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-265-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/4bf7704db59201276c79737032c6fb9787a41d22/0_459_6916_4150/master/6916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=129c53e5acaf473b7039281e3d2d335a",
+            "publishedAt": "2022-11-15T00:52:00Z",
+            "content": "The US president, Joe Biden, and his Chinese counterpart, Xi Jinping, have reiterated their agreement that a nuclear war should never be fought, the White House said. Beijings readout from the long-a… [+341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Thousands of UC workers strike at UC campuses - CBS 8 San Diego",
+            "description": "Nearly 48,000 graduate students are participating in the nation's largest academic worker strike.",
+            "url": "https://www.youtube.com/watch?v=UDfE5zsLJyE",
+            "urlToImage": "https://i.ytimg.com/vi/UDfE5zsLJyE/maxresdefault.jpg",
+            "publishedAt": "2022-11-15T00:51:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "As the 8 billionth child is born, who were 5th, 6th and 7th? - BBC",
+            "description": "The world is still growing, but not as fast as when the six- and seven-billionth babies were born.",
+            "url": "https://www.bbc.com/news/world-63623307",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB61/production/_127637834_8_billion_people_index.jpg",
+            "publishedAt": "2022-11-15T00:43:03Z",
+            "content": "The UN says the world's population has hit eight billion, just 11 years after passing the seven-billion milestone.\r\nAfter a big surge in the middle of the 20th Century, population growth is already s… [+6879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC 5 Dallas-Fort Worth"
+            },
+            "author": "Ahraya Burns",
+            "title": "‘In Shock': ‘Wings Over Dallas' Air Show Crash Victims Identified - NBC 5 Dallas-Fort Worth",
+            "description": "These are the victims of the airshow plane crash that happened during the \"Wings Over Dallas\" in Dallas, Texas Saturday.",
+            "url": "https://www.nbcdfw.com/news/local/grieving-wings-over-dallas-air-show-crash-victims-identified/3124822/",
+            "urlToImage": "https://media.nbcdfw.com/2022/11/FIXED-Air-Show-Crash-Victims-1.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2022-11-15T00:36:17Z",
+            "content": "Officials have released the names of the six people killed in a deadly collision between a World War II-era bomber and a fighter plane during the Wings Over Dallas air show Saturday at Dallas Executi… [+2956 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Colts owner Jim Irsay responds to critics who blasted his Jeff Saturday hire - Fox News",
+            "description": "Indianapolis Colts Jim Irsay owner had a response for his hiring of Jeff Saturday as interim head coach after Frank Reich was fired due to a 3-5-1 start to the season.",
+            "url": "https://www.foxnews.com/sports/colts-owner-jim-irsay-responds-critics-blasted-jeff-saturday-hire",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/jim-irsay.jpg",
+            "publishedAt": "2022-11-15T00:24:07Z",
+            "content": "Indianapolis Colts owner Jim Irsay was blasted by critics small and large for his hiring of Jeff Saturday as interim head coach. But, after a win for Saturday and the Colts on Sunday over the Las Veg… [+3616 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. Fines Airlines More Than $7 Million for Not Providing Refunds - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTQvYnVzaW5lc3MvdHJhbnNwb3J0YXRpb24tZGVwYXJ0bWVudC1haXJsaW5lLWZpbmVzLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-14T23:30:08Z",
+            "content": null
+        }
+    ]
+}
